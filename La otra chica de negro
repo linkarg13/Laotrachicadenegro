@@ -1,2 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 1
+https://server14.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.1.0.v0.1694759072.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 2
+https://server15.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.2.0.v0.1694759414.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 3
+https://server16.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.3.0.v0.1694758967.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 4
+https://server17.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.4.0.v0.1694759241.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 5
+https://server18.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.5.0.v0.1694759081.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 6
+https://server19.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.6.0.v0.1694759203.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 7
+https://server27.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.7.0.v0.1694760658.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 8
+https://server21.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.8.0.v0.1694759634.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 9
+https://server22.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.9.0.v0.1694758971.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="temporada 1 ", la otra chica negra 10
+https://server23.mxcdnab.online/newhls/b3ce6f77893deca031a6528ab7a0c2d3/EP.10.0.v0.1694759715.1080.m3u8
